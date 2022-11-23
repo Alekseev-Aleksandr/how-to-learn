@@ -1,0 +1,11 @@
+.video__iframes {
+    /*
+    позиционирование элемента относительное 
+    спустил вниз на 60px по брифу, отнял от 60 10(margin -10) что бы получить отступ между subtitle и frames в 50 px(по брифу)*/
+    display: flex;
+    gap: 20px;
+    margin-top: -10px; 
+    position: relative;
+    top: 60px;
+    left: 0;
+}
