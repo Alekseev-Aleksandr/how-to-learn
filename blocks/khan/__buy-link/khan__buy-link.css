@@ -6,8 +6,3 @@
     font-weight: normal;
     position: relative;
 }
-
-.khan__buy-link:hover {
-    transition: .3s;
-    opacity: .4;
-}
